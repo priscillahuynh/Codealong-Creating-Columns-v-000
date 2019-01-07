@@ -81,7 +81,9 @@ section {
   padding: 20px;
 }
 /*////// LAYOUT /////*/
-
+* {
+  box-sizing: border-box;
+}
 .wrapper {
   width: 960px;
   margin: 0 auto;

@@ -82,7 +82,8 @@ section {
 }
 /*////// LAYOUT /////*/
 * {
-  -webkit-box-sizing
+  -webkit-box-sizing: border-box;
+  
   box-sizing: border-box;
 }
 .wrapper {

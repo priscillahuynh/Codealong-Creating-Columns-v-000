@@ -83,7 +83,7 @@ section {
 /*////// LAYOUT /////*/
 * {
   -webkit-box-sizing: border-box;
-  
+  -moz-box-
   box-sizing: border-box;
 }
 .wrapper {

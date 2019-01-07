@@ -95,6 +95,8 @@ figcaption {
   background: #ccc;
 }
 
-[class*="col-"]
+[class*="col-"] {
+  
+}
 
 
